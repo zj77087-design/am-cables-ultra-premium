@@ -1,2 +1,5 @@
+
 User-agent: *
 Allow: /
+
+Sitemap: https://zj77087-design.github.io/am-cables-ultra-premium/sitemap.xml
